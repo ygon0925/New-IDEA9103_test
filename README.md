@@ -1,7 +1,7 @@
 # New-IDEA9103_test
 Test for the IDEA9103 Class
 
-This is ny first change to the repo!
+This is my first change to the repo!
 
 # Header 1
 ## Header 2
@@ -14,3 +14,4 @@ This is ny first change to the repo!
 
 - Item 1
 - Item 2
+- Item 3
